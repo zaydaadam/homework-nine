@@ -26,13 +26,13 @@ const pages = {
 
   <div class="gallery">
     <div class="gallery-pic">
-      <img src="../images/1.jpg" alt="Coffee Image 1" />
+      <img src="images/1.jpg" alt="Coffee Image 1" />
     </div>
     <div class="gallery-pic">
-      <img src="../images/2.png" alt="Coffee Image 2" />
+      <img src="images/2.png" alt="Coffee Image 2" />
     </div>
     <div class="gallery-pic">
-      <img src="../images/3.jpg" alt="Coffee Image 3" />
+      <img src="images/3.jpg" alt="Coffee Image 3" />
     </div>
   </div>
 </div>
@@ -57,13 +57,13 @@ const pages = {
 <h2>Profile Images</h2>
 <div class="gallery">
   <div class="gallery-pic">
-    <img src="../images/profile1.png" alt="Onizuka Classroom" />
+    <img src="/images/profile1.png" alt="Onizuka Classroom" />
   </div>
   <div class="gallery-pic">
-    <img src="../images/profile2.png" alt="Onizuka Teaching" />
+    <img src="/images/profile2.png" alt="Onizuka Teaching" />
   </div>
   <div class="gallery-pic">
-    <img src="../images/profile3.jpg" alt="Onizuka with Students" />
+    <img src="/images/profile3.jpg" alt="Onizuka with Students" />
   </div>
 </div>
 `,
@@ -79,9 +79,9 @@ const pages = {
 <p>In addition to web development, we offer mobile app development services to help you reach your customers on the go. Our apps are designed with user experience in mind, ensuring smooth navigation and engaging interfaces. Whether for iOS or Android, we work to create apps that enhance your business operations and customer engagement.</p>
 
 <div class="service-images">
-  <img src="../images/service1.jpg" alt="Website Development" />
-  <img src="../images/service2.png" alt="Mobile App Development" />
-  <img src="../images/service3.png" alt="SEO Optimization" />
+  <img src="/images/service1.jpg" alt="Website Development" />
+  <img src="/images/service2.png" alt="Mobile App Development" />
+  <img src="/images/service3.png" alt="SEO Optimization" />
 </div>
 
 <h2>Contact Us for More Information</h2>
@@ -134,9 +134,9 @@ const pages = {
   <p>If you encounter any issues while navigating our site or using our services, don't hesitate to refer to our troubleshooting tips or reach out for support. Our team is here to help!</p>
 
   <div class="helper-images">
-    <img src="../images/helper1.jpg" alt="Helper Image 1" />
-    <img src="../images/helper2.png" alt="Helper Image 2" />
-    <img src="../images/helper3.png" alt="Helper Image 3" />
+    <img src="/images/helper1.jpg" alt="Helper Image 1" />
+    <img src="/images/helper2.png" alt="Helper Image 2" />
+    <img src="/images/helper3.png" alt="Helper Image 3" />
   </div>
   <h2>How to Use Our Services</h2>
   <p>Follow the instructions provided on each service page to get started. If you need additional help, our team is available to guide you.</p>
